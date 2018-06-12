@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin Dialog Utils</string>
+    <string name="sample_show_ok_dialog">Show OK Dialog</string>
+    <string name="sample_show_ok_cancel_dialog">Show OK/Cancel Dialog</string>
+    <string name="sample_show_custom_dialog">Show Custom Dialog</string>
+</resources>
